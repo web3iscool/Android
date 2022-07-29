@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="pokemon">I love android development and pokemon!</string>
+    <string name="gotta_catch_em_all">Gotta catch \'em all</string>
+</resources>
